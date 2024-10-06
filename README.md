@@ -6,8 +6,9 @@ This Python script automates sending pre-defined WhatsApp messages to multiple c
 🔧 Steps to Run the Code:
 
 1.Open your Command Prompt and type
-'''language
+```language
 pip install pywhatkit
+```
 
 2.After installation, open the Python file whatsapp_automation. Add the WhatsApp numbers you want to send messages to and type the message
 
